@@ -1,2 +1,2 @@
 # Cool-Repository
-None
+Not much for the README..

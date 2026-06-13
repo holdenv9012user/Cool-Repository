@@ -1,0 +1,17 @@
+# SKILL: Simple Game Design
+
+Use this design skill when creating small arcade games or playful interactive tools.
+
+Core principles:
+- Put the playable experience on the first screen.
+- Make the main control obvious and responsive.
+- Keep the visual style bright, readable, and simple.
+- Show score, restart state, and failure state clearly.
+- Prefer short loops that can be understood in seconds.
+- Tune difficulty gently so the first few attempts feel fair.
+
+For Flappy-style games:
+- One tap or key press should always flap immediately.
+- Obstacles should have consistent spacing and a readable gap.
+- Collision should feel slightly forgiving, never surprising.
+- Game over should make restarting instant.
